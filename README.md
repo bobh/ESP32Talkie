@@ -4,6 +4,9 @@ Talkie
 Speech library for Arduino
 
 Modified for ESP-32 DAC pin 25.
+YouTube demo:
+https://youtu.be/Q-VMNEvx4PE
+
 This library hacks the previous version of Talkie.cpp and may not be compatible
 with the other processors anymore.
 
